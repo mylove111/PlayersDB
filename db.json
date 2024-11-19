@@ -1,0 +1,110 @@
+{
+    
+"USA": [
+    { "name": "Noah LYLES", "sport": "ATH", "event": "M 100m", "medal": "G" },
+    { "name": "Kenneth BEDNAREK", "sport": "ATH", "event": "M 200m", "medal": "S" },
+    { "name": "Jasmine MOORE", "sport": "ATH", "event": "W Long Jump", "medal": "B" },
+    { "name": "Caeleb DRESSEL", "sport": "SWIM", "event": "M 100m Free", "medal": "G" },
+    { "name": "Katie LEDECKY", "sport": "SWIM", "event": "W 200m Fly", "medal": "S" },
+    { "name": "Michael Andrew", "sport": "SWIM", "event": "M 400m Medley Relay", "medal": "B" },
+    { "name": "USA Team", "sport": "GYMN", "event": "W Team All-Around", "medal": "G" },
+    { "name": "Sam Mikulak", "sport": "GYMN", "event": "M Horizontal Bar", "medal": "S" },
+    { "name": "Jade Carey", "sport": "GYMN", "event": "W Floor Exercise", "medal": "B" },
+    { "event": "M Archery", "sport": "ARCH", "name": "Brady Ellison", "medal": "G" },
+    { "event": "W Shooting", "sport": "SHOOT", "name": "Ginny Thrasher", "medal": "S" },
+    { "event": "M Rowing", "sport": "ROW", "name": "USA Team", "medal": "B" }
+  ],
+  "CHN": [
+    { "name": "Wang CHUNYU", "sport": "ATH", "event": "W 800m", "medal": "G" },
+    { "name": "Zhang GUOWEI", "sport": "ATH", "event": "M High Jump", "medal": "S" },
+    { "name": "Gong LIJIAO", "sport": "ATH", "event": "M Shot Put", "medal": "B" },
+    { "name": "Sun Yang", "sport": "SWIM", "event": "M 200m Free", "medal": "G" },
+    { "name": "Ye Shiwen", "sport": "SWIM", "event": "W 400m IM", "medal": "S" },
+    { "name": "Wang Shun", "sport": "SWIM", "event": "W 200m Breast", "medal": "B" },
+    { "name": "China Team", "sport": "GYMN", "event": "M Team All-Around", "medal": "G" },
+    { "name": "Fan Yilin", "sport": "GYMN", "event": "W Uneven Bars", "medal": "S" },
+    { "name": "Xiao Ruoteng", "sport": "GYMN", "event": "M Floor Exercise", "medal": "B" }
+  ],
+  "JPN": [
+    { "name": "Ryota Yamagata", "sport": "ATH", "event": "M 400m", "medal": "G" },
+    { "name": "Shunsuke Izumiya", "sport": "ATH", "event": "M 110m Hurdles", "medal": "S" },
+    { "name": "Hitomi Niiya", "sport": "ATH", "event": "W Marathon", "medal": "B" },
+    { "name": "Ryosuke Irie", "sport": "SWIM", "event": "M 200m Back", "medal": "G" },
+    { "name": "Satomi Suzuki", "sport": "SWIM", "event": "W 200m Breast", "medal": "S" },
+    { "name": "Japan Team", "sport": "SWIM", "event": "M 4x100m Medley Relay", "medal": "B" },
+    { "name": "Kohei Uchimura", "sport": "GYMN", "event": "M Pommel Horse", "medal": "G" },
+    { "name": "Asuka Teramoto", "sport": "GYMN", "event": "W Balance Beam", "medal": "S" },
+    { "name": "Kenta Chiba", "sport": "GYMN", "event": "M Rings", "medal": "B" },
+    { "event": "W 67kg", "sport": "TKD", "name": "Aya Yamada", "medal": "G" },
+    { "event": "M 80kg", "sport": "TKD", "name": "Takuma Sato", "medal": "S" },
+    { "event": "W 49kg", "sport": "TKD", "name": "Rika Matsumoto", "medal": "B" }
+  ],
+  "AUS": [
+    { "name": "Catriona Bisset", "sport": "ATH", "event": "W 400m", "medal": "G" },
+    { "name": "Australia Team", "sport": "ATH", "event": "M 4x100m Relay", "medal": "S" },
+    { "name": "Dani Stevens", "sport": "ATH", "event": "W Discus Throw", "medal": "B" },
+    { "name": "Emma McKeon", "sport": "SWIM", "event": "W 100m Free", "medal": "G" },
+    { "name": "Kyle Chalmers", "sport": "SWIM", "event": "M 200m Fly", "medal": "S" },
+    { "name": "Ariarne Titmus", "sport": "SWIM", "event": "W 800m Free", "medal": "B" },
+    { "event": "W Team Pursuit", "sport": "CYCL", "name": "Australia Team", "medal": "G" },
+    { "event": "M BMX Freestyle", "sport": "CYCL", "name": "Logan Martin", "medal": "S" },
+    { "event": "M Road Race", "sport": "CYCL", "name": "Caleb Ewan", "medal": "B" },
+    { "event": "M Swimming Relay", "sport": "SWIM", "name": "Australia Team", "medal": "G" },
+    { "event": "W Canoeing", "sport": "CAN", "name": "Jessica Fox", "medal": "S" }
+  ],
+  "FRA": [
+    { "name": "Renaud Lavillenie", "sport": "ATH", "event": "M Pole Vault", "medal": "G" },
+    { "name": "Antoinette Nana Djimou", "sport": "ATH", "event": "W Heptathlon", "medal": "S" },
+    { "name": "Morhad Amdouni", "sport": "ATH", "event": "M 10,000m", "medal": "B" },
+    { "name": "Florent Manaudou", "sport": "SWIM", "event": "M 50m Free", "medal": "G" },
+    { "name": "Marie Wattel", "sport": "SWIM", "event": "W 100m Fly", "medal": "S" },
+    { "name": "Léon Marchand", "sport": "SWIM", "event": "M 200m IM", "medal": "B" },
+    { "name": "Ludovico Edalli", "sport": "GYMN", "event": "M Parallel Bars", "medal": "G" },
+    { "name": "Vanessa Ferrari", "sport": "GYMN", "event": "W Vault", "medal": "S" },
+    { "name": "Mélanie de Jesus dos Santos", "sport": "GYMN", "event": "W Uneven Bars", "medal": "G" },
+    { "name": "Samir Aït Saïd", "sport": "GYMN", "event": "M Vault", "medal": "S" },
+    { "name": "Marine Boyer", "sport": "GYMN", "event": "W All-Around", "medal": "B" },
+    { "name": "Jordan Sarrou", "sport": "CYCL", "event": "M Mountain Bike", "medal": "G" },
+    { "name": "Audrey Cordon-Ragot", "sport": "CYCL", "event": "W Road Race", "medal": "S" },
+    { "name": "Benjamin Thomas", "sport": "CYCL", "event": "M Track Omnium", "medal": "B" }, { "event": "W 67kg", "name": "Elisa Giordano", "medal": "G" },
+    { "event": "W 67kg", "sport": "TKD", "name": "Elisa Giordano", "medal": "G" },
+    { "event": "M 80kg", "sport": "TKD", "name": "Vito Dell'Aquila", "medal": "S" },
+    { "event": "M 58kg", "sport": "TKD", "name": "Roberto Botta", "medal": "B" },
+    { "event": "W 49kg", "sport": "TKD", "name": "Marie-Laure Gbagbi", "medal": "G" },
+    { "event": "M 68kg", "sport": "TKD", "name": "Maxime Potvin", "medal": "S" },
+    { "event": "W 57kg", "sport": "TKD", "name": "Camille Grandin", "medal": "B" },
+    { "event": "M Judo", "sport": "JUD", "name": "Teddy Riner", "medal": "G" },
+    { "event": "W Fencing", "sport": "FEN", "name": "Manon Brunet", "medal": "B" }
+  ],
+  "ITA": [
+    { "name": "Ludovico Edalli", "sport": "GYMN", "event": "M Parallel Bars", "medal": "G" },
+    { "name": "Vanessa Ferrari", "sport": "GYMN", "event": "W Vault", "medal": "S" },
+    { "name": "Niccolò Rinaldi", "sport": "GYMN", "event": "M Floor Exercise", "medal": "B" },
+    { "event": "W Track Omnium", "sport": "CYCL", "name": "Elisa Balsamo", "medal": "G" },
+    { "event": "M Keirin", "sport": "CYCL", "name": "Filippo Ganna", "medal": "S" },
+    { "event": "W Mountain Bike", "sport": "CYCL", "name": "Eva Lechner", "medal": "B" },
+    { "event": "W Diving", "sport": "DIV", "name": "Shi Tingmao", "medal": "G" },
+    { "event": "M Table Tennis", "sport": "TT", "name": "Ma Long", "medal": "S" },
+    { "event": "W Weightlifting", "sport": "WL", "name": "Hou Zhihui", "medal": "B" },
+    { "event": "M Cycling", "sport": "CYCL", "name": "Elia Viviani", "medal": "G" },
+    { "event": "W Gymnastics", "sport": "GYMN", "name": "Vanessa Ferrari", "medal": "S" }
+  ],
+  "NED": [
+    { "name": "Tom Dumoulin", "sport": "CYCL", "event": "M Road Race", "medal": "G" },
+    { "name": "Annemiek van Vleuten", "sport": "CYCL", "event": "W Time Trial", "medal": "S" },
+    { "name": "Harrie Lavreysen", "sport": "CYCL", "event": "M Sprint", "medal": "B" }
+  ],
+  "GBR": [
+    { "event": "M Team Pursuit", "sport": "CYCL", "name": "Great Britain Team", "medal": "G" },
+    { "event": "W Sprint", "sport": "CYCL", "name": "Emma Finucane", "medal": "S" },
+    { "event": "M Individual Time Trial", "sport": "CYCL", "name": "Geraint Thomas", "medal": "B" }
+  ],
+  "KOR": [
+    { "event": "M 58kg", "sport": "TKD", "name": "Jang Jun", "medal": "G" },
+    { "event": "W 49kg", "sport": "TKD", "name": "Sim Jae-young", "medal": "G" },
+    { "event": "M 68kg", "sport": "TKD", "name": "Lee Dae-hoon", "medal": "S" },
+    { "event": "W Archery", "sport": "ARCH", "name": "An San", "medal": "G" },
+    { "event": "M Taekwondo", "sport": "TKD", "name": "Jang Jun", "medal": "S" },
+    { "event": "W Badminton", "sport": "BAD", "name": "Kim So-yeong", "medal": "B" }
+  ]
+}
